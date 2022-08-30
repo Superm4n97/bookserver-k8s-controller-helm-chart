@@ -1,0 +1,5 @@
+name: bkserver
+
+image:
+  repository: superm4n/controller-book-server
+  tag: v0.1.0
